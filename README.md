@@ -1,4 +1,3 @@
-
 # 🧑‍💻 Sudeis Ahmed  
 🎓 *Software Engineering Student* | 💡 *Tech Enthusiast & Problem Solver*
 
@@ -7,7 +6,7 @@
 ---
 
 ## 🧠 Skills
-- ⚙️ Proficient in **Java**, **Python**, **JavaScript**, and frameworks like **Flask**
+- ⚙️ Proficient in **Java**, **Python**, **JavaScript**, **HTML**, and **CSS**
 - 🧩 Strong in **algorithmic problem solving** and **data structure design**
 - 🧽 Detail-oriented with a passion for **scalable, maintainable code**
 
@@ -23,9 +22,11 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming & Scripting  
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)  
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
