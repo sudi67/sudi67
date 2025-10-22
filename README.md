@@ -1,4 +1,4 @@
-# 🧑‍💻 Sudeis Ahmed  
+# 🧑‍💻 sam  
 🎓 *Software Engineering Student* | 💡 *Tech Enthusiast & Problem Solver*
 
 > **“To make a positive impact in the tech industry through continuous learning, innovation, and meaningful collaboration.”**
